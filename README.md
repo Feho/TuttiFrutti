@@ -1,4 +1,4 @@
 TuttiFrutti
 ===========
 
-Premier jeux avec XNA
+Premier jeu avec XNA
